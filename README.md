@@ -16,7 +16,7 @@ Link to [live demo 🤙🏻](https://englishtutor.pages.dev/)
 
 ## Journey
 
-I live in Brazil and here a lot of people don't practice speaking so I built this app to use AI to help them enhance english skills.
+I live in India and here a lot of people don't practice speaking so I built this app to use AI to help them enhance english skills.
 
 AI Models used:
  - `@cf/openai/whisper`
